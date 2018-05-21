@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#046d3e</color>
+    <color name="colorPrimaryDark">#003040</color>
+    <color name="colorAccent">#046d3e</color>
+
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorTransparent">#0000</color>
+    <color name="colorToolbar">#05465c</color>
+
+
+    <!--003040
+
+
+068a4f
+046d3e-->
+    <color name="colorGreenStroke">#046d3e</color>
+    <color name="colorGreen">#068a4f</color>
+
+
+    <!--2f5766
+
+1d3b4b
+
+081b2c-->
+    <color name="gradientStart">#2f5766</color>
+    <color name="gradientCenter">#1d3b4b</color>
+    <color name="gradientEnd">#081b2c</color>
+</resources>

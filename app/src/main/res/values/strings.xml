@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">Salary Notification</string>
+
+    <!--Error-->
+    <string name="no_internet">Oops! no Internet Connection</string>
+    <string name="ws_error">Oops! something went wrong</string>
+    <string name="loading">loading</string>
+
+    <!--Login Page-->
+    <string name="enter_email">Please enter email</string>
+    <string name="enter_password">Please enter password</string>
+    <string name="hint_username">User Name</string>
+    <string name="hint_password">Password</string>
+    <!--Forgot Password-->
+
+    <string name="login">Login</string>
+    <string name="signup_text">Don`t have an account? <u>SIGN UP</u></string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="enter_wrong_username">Please enter correct username</string>
+    <string name="enter_wrong_password">Please enter correct password</string>
+    <string name="wrong_username_pass">Please enter correct username or password</string>
+
+    <!--Sign Up Page-->
+    <string name="enter_emp_id">Please enter employment ID</string>
+    <string name="enter_company_name">Please enter company name</string>
+    <string name="enter_user_name">Please enter username</string>
+    <string name="name">Email ID</string>
+
+    <string name="company_name">Company Name</string>
+    <string name="employment_id">Employment ID</string>
+    <string name="submit">SUBMIT</string>
+    <string name="signin_text">Already an account? <u>SIGN IN</u></string>
+
+    <!--Main Page-->
+    <!--Sign Up Page-->
+    <string name="salary">Last Reached Salary</string>
+    <string name="search">Search &amp; View</string>
+    <string name="share">Share the Application</string>
+    <string name="export">Export Historical Records</string>
+    <string name="leave">Leave Application</string>
+    <string name="about_us">About Us</string>
+    <string name="logout">LOGOUT</string>
+
+
+    <!--Main Activity-->
+    <string name="summary">Summary</string>
+    <string name="allowance">Allowance</string>
+    <string name="deduction">Deduction</string>
+
+    <!--item Summary-->
+    <string name="item_sum_degree">Degree/Step</string>
+    <string name="item_sum_basic_salary">Basic Salary</string>
+    <string name="item_sum_year">Year - Month</string>
+    <string name="item_sum_net">Net</string>
+    <string name="item_sum_allowances">All Allowances</string>
+    <string name="item_sum_deductions">All Deductions</string>
+
+
+    <!--item Allowance-->
+    <string name="item_allow_marriage">Marriage</string>
+    <string name="item_allow_kids">Kids</string>
+    <string name="item_allow_engineering">Engineering</string>
+    <string name="item_allow_risk">Risk</string>
+    <string name="item_allow_position">Position</string>
+    <string name="item_allow_education">Education</string>
+    <string name="item_allow_education_high">Education High</string>
+    <string name="item_allow_transportation">Transportation</string>
+    <string name="item_allow_differences">Differences</string>
+    <string name="item_allow_professional">Professional</string>
+
+    <!--item Deduction-->
+    <string name="item_deduct_tax">Tax</string>
+    <string name="item_deduct_loan">Loan</string>
+    <string name="item_deduct_insurance">Insurance</string>
+    <string name="item_deduct_vacation">Vacation</string>
+    <string name="item_deduct_absence">Absents</string>
+    <string name="item_deduct_retire">Retire</string>
+    <string name="item_deduct_compensation">Compensation</string>
+    <string name="item_deduct_socialsolidarity">Social Solidarity</string>
+    <string name="item_deduct_properties">Properties</string>
+    <string name="item_takeoff_properties">Take Off</string>
+    <string name="item_labor_properties">Labor</string>
+
+
+    <!--Search and View-->
+    <string name="select_year">Select Year</string>
+    <string name="select_month">Select Month</string>
+    <string name="select_search">Search</string>
+    <string name="enter_year">Please Select Year</string>
+    <string name="enter_month">Please Select Month</string>
+
+    <!--No Record-->
+    <string name="no_record">No record available</string>
+
+    <!--Notification-->
+    <string name="notification_title">Salary Notification</string>
+    <string name="notification_text">You have been received new Salary Record Notification</string>
+
+    <!--LOGOUT-->
+    <string name="user_logout">Logout successfully</string>
+
+    <!--New Texts-->
+    <string name="current_salary">Current Salary</string>
+    <string name="marital">Marital</string>
+    <string name="solidarity">Solidarity</string>
+    <string name="month">Month</string>
+    <string name="year">Year</string>
+
+</resources>

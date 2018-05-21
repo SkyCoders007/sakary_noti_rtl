@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">تطبيق اخطارات رواتبي</string>
+
+    <!--Error-->
+    <string name="no_internet">على ما يبدوا انه لا يوجد اتصال انترنت</string>
+    <string name="ws_error">يوجد عملية تسير بشكل خاظئ.</string>
+    <string name="loading">تحميل .... </string>
+
+    <!--Login Page-->
+    <string name="enter_email">ادخل الايميل رجاءا</string>
+    <string name="enter_password">الرجاء تسجيل كلمة المرور</string>
+    <string name="hint_username">اسم المستخدم</string>
+    <string name="hint_password">كلمة المرور</string>
+    <string name="login">الدخول</string>
+    <string name="signup_text">هل لديك حساب ؟ التسجيل الجديد</string>
+    <string name="forgot_password">نسيت كلمة المرور ؟</string>
+    <string name="enter_wrong_username">Please enter correct username</string>
+    <string name="enter_wrong_password">Please enter correct password</string>
+    <string name="wrong_username_pass">Please enter correct username or password</string>
+
+    <!--Forgot Password-->
+
+
+    <!--Sign Up Page-->
+    <string name="enter_emp_id">ادخل رمز الموظف</string>
+    <string name="enter_company_name">الرجاء ادخال اسم المديرية او الوزارة</string>
+    <string name="enter_user_name">الرجاء ادخال اسم المستخدم</string>
+    <string name="name">البريد الالكتروني</string>
+
+    <string name="company_name">اسم المديرية او الوزارة</string>
+    <string name="employment_id">رقم الموظف</string>
+    <string name="submit">التنفيذ</string>
+    <string name="signin_text">هل لديك حساب ؟ تسجيل الدخول</string>
+
+    <!--Main Page-->
+    <!--Sign Up Page-->
+    <string name="salary">اخر قيد راتب</string>
+    <string name="search">البحث والعرض</string>
+    <string name="share">مشاركة التطبيق</string>
+    <string name="export">تصدير البيانات المخزنة الى ملف</string>
+    <string name="leave">الغاء الاشتراك</string>
+    <string name="about_us">حول الشركة والبرنامج</string>
+    <string name="logout">الخروج</string>
+
+    <!--Main Activity-->
+    <string name="summary">الخلاصة</string>
+    <string name="allowance">المخصصات</string>
+    <string name="deduction">الاستقطاعات</string>
+
+    <!--item Summary-->
+    <string name="item_sum_degree">الدرجة</string>
+    <string name="item_sum_basic_salary">الراتب الاساس</string>
+    <string name="item_sum_year">سنة - شهر</string>
+    <string name="item_sum_net">الراتب الصافي</string>
+    <string name="item_sum_allowances">مج. المخصصات</string>
+    <string name="item_sum_deductions">مج. لاستقطاعات</string>
+
+
+    <!--item Allowance-->
+    <string name="item_allow_marriage">زوجية</string>
+    <string name="item_allow_kids">اطفال</string>
+    <string name="item_allow_engineering">تخصصية</string>
+    <string name="item_allow_risk">خطورة</string>
+    <string name="item_allow_position">منصب</string>
+    <string name="item_allow_education">شهادة</string>
+    <string name="item_allow_education_high">شهادة عليا</string>
+    <string name="item_allow_transportation">نقل / موقع</string>
+    <string name="item_allow_differences">فروقات</string>
+    <string name="item_allow_professional">مهنية</string>
+
+    <!--item Deduction-->
+    <string name="item_deduct_tax">الضريبة</string>
+    <string name="item_deduct_loan">سلف</string>
+    <string name="item_deduct_insurance">تكافل اجتماعي</string>
+    <string name="item_deduct_vacation">اجازات</string>
+    <string name="item_deduct_absence">غياب</string>
+    <string name="item_deduct_retire">التقاعد</string>
+    <string name="item_deduct_compensation">غرامات + حشد</string>
+    <string name="item_deduct_socialsolidarity">تامين</string>
+    <string name="item_deduct_properties">امانات</string>
+    <string name="item_takeoff_properties">سحب يد</string>
+    <string name="item_labor_properties">العمل والضمان</string>
+
+
+    <!--Search and View-->
+    <string name="select_year">السنة</string>
+    <string name="select_month">الشهر</string>
+    <string name="select_search">بحث</string>
+    <string name="enter_year">ارجاء اختيار سنة</string>
+    <string name="enter_month">الرجاء اختيار شهر</string>
+
+    <!--No Record-->
+    <string name="no_record">لا يوجد قيود للعرض</string>
+
+    <!--Notification-->
+    <string name="notification_title">تطبيق اخطارات رواتبي</string>
+    <string name="notification_text">تم استلام اخطار وصول قيد راتب جديد</string>
+
+    <!--LOGOUT-->
+    <string name="user_logout">Logout successfully</string>
+
+    <!--New Texts-->
+    <string name="current_salary">الراتب الحالي</string>
+    <string name="marital">الزوجية</string>
+    <string name="solidarity">تكافل</string>
+    <string name="month">شهر</string>
+    <string name="year">عام</string>
+
+</resources>
